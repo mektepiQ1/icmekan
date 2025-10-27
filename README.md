@@ -1,2 +1,0 @@
-# icmekan
-icmekan.github.io
